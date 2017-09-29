@@ -180,6 +180,13 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Account\Web.config" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Image\contactus.mouse1_.jpg" />
+    <Content Include="Image\Linkin.JPG" />
+    <Content Include="Image\logo.png" />
+    <Content Include="Image\slogan.gif" />
+    <Content Include="Image\software-development.png" />
+    <Content Include="Image\whatapp.JPG" />
+    <Content Include="Image\who-am-i.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />

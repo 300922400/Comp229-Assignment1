@@ -837,7 +837,13 @@ pre code {
 .col-md-3,
 .col-md-4,
 .col-md-5,
-.col-md-6,
+.col-md-6
+{
+    text-align: center;
+    display: block;
+    vertical-align: middle;
+    padding-bottom: 6em;
+}
 .col-md-7,
 .col-md-8,
 .col-md-9,
@@ -4927,14 +4933,25 @@ a.list-group-item.active > .badge,
   margin-left: 3px;
 }
 
+.picture{
+    margin-bottom: 50px;
+    border-radius: 4px;
+}
+
 .jumbotron {
-  padding: 30px;
-  margin-bottom: 30px;
-  font-size: 21px;
-  font-weight: 200;
-  line-height: 2.1428571435;
-  color: inherit;
-  background-color: #eeeeee;
+ padding: 30px;
+    margin-bottom: 30px;
+    font-size: 21px;
+    font-weight: 200;
+    line-height: 2.1428571435;
+    color: inherit;
+    background-color: #eeeeee;
+    background-image: url('../Image/software-development.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:350px;
+    opacity:0.6;
+}
 }
 
 .jumbotron h1 {
