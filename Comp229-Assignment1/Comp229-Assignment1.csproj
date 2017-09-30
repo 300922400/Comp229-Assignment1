@@ -182,6 +182,8 @@
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Image\contactus.mouse1_.jpg" />
     <Content Include="Image\desktop-backgrounds-23.jpg" />
+    <Content Include="Image\Dtafalonso-Android-Lollipop-Gmail.ico" />
+    <Content Include="Image\Gmail.PNG" />
     <Content Include="Image\Linkin.JPG" />
     <Content Include="Image\logo.png" />
     <Content Include="Image\picasion.com_8ll0.gif" />
@@ -189,6 +191,8 @@
     <Content Include="Image\picasion.com_8ll5.gif" />
     <Content Include="Image\picasion.com_8lla.gif" />
     <Content Include="Image\picasion.com_8llb.gif" />
+    <Content Include="Image\picasion.com_8llv.gif" />
+    <Content Include="Image\picasion.com_8llw.gif" />
     <Content Include="Image\picasion.com_d25c8f79a3f1389681f9911e88cc4e7f.gif" />
     <Content Include="Image\profile.jpeg" />
     <Content Include="Image\slogan.gif" />
