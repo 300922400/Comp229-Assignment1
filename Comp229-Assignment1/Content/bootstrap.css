@@ -477,6 +477,19 @@ h6,
   font-weight: 500;
   line-height: 1.1;
 }
+#table{
+    margin-top:50px;
+    color:#09013d;
+}
+.contact{
+     margin-top:30px;
+    text-align: left;
+    display: block;
+    vertical-align: middle;
+}
+.social{
+    color:#09013d;
+}
 .profile
 {
     margin-top:50px;
