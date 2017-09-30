@@ -477,7 +477,14 @@ h6,
   font-weight: 500;
   line-height: 1.1;
 }
-
+.profile
+{
+    margin-top:50px;
+    text-align: center;
+    display: block;
+    vertical-align: middle;
+    padding-bottom: 6em;
+}
 h1 small,
 h2 small,
 h3 small,
@@ -517,6 +524,7 @@ h1,
 h2,
 .h2 {
   font-size: 30px;
+    text-align: center;
 }
 
 h3,
@@ -537,6 +545,10 @@ h5,
 h6,
 .h6 {
   font-size: 12px;
+}
+.aboutMe{
+    text-align: left;
+    color:#0a054d;
 }
 
 h1 small,
@@ -837,6 +849,11 @@ pre code {
 .col-md-3,
 .col-md-4,
 .col-md-5,
+#allPage {
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+}
 .col-md-6
 {
     text-align: center;
